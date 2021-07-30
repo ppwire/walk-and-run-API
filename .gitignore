@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+functions/env/100Days100Kilos-742a1c7f3b09.json
+.env.local
